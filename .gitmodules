@@ -1,0 +1,6 @@
+[submodule "pack/fbs/start/editorconfig-vim"]
+	path = pack/fbs/start/editorconfig-vim
+	url = git@github.com:editorconfig/editorconfig-vim.git
+[submodule "pack/fbs/start/vim-sensible"]
+	path = pack/fbs/start/vim-sensible
+	url = git@github.com:tpope/vim-sensible.git
